@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Setting>
+<AUTHENTICACTION>
+  <USERNAME>ttran</USERNAME>
+  <PASSWORD>1234Hjkl</PASSWORD>
+</AUTHENTICACTION>
+</Setting>
+
+<!-- GRANT ALL PRIVILEGES ON *.* to 'ttran'@'localhost' IDENTIFIED BY '1234hJKL' -->
